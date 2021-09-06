@@ -1,0 +1,120 @@
+body{
+    background: #fff7da;
+    overflow-x: hidden;
+}
+.logof{
+    position: absolute;
+    margin-left: 100px;
+   
+}
+#logo{
+   margin: -20px;
+   margin-left: 35px;
+   font-style:italic;
+}
+.para{
+    margin: -10px;
+    font-size: 10px;
+    margin-left: 5px;
+    
+   
+}
+.entete{
+    margin-left: 100px;
+    margin: 10px;
+    margin-top: 10px; 
+    
+}
+
+.menu,.logo{
+    margin: -50px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 700px;
+    font-size: 20px;
+}
+nav a{
+    position: relative;
+    padding: 15px;
+    text-decoration: none;
+    color:black;
+    font-family:'segoe' UI;
+}
+.menu a:hover{
+    transition: 0.3s;
+}
+.menu a:hover {
+   
+    color: rgba(133, 7, 7, 0.993);
+    text-decoration: underline
+  }
+  
+.menu a.active {
+    background-color: dodgerblue;
+    color: rgba(133, 7, 7, 0.986);
+    }
+.ligne{
+    padding: 100px;
+    width: 100%;
+    height: 5px;
+}
+.txt{
+    position: absolute;
+    background-color:rgb(0, 0, 0, 0.5);
+    margin-top: -50px;
+    color: white;
+    padding: 15px;
+    width: 87%;
+}
+nav{
+    position: relative;
+    padding: 15px;
+    text-decoration: none;
+    color:white;
+    font-family:'segoe' UI; 
+}
+.art a:hover{
+    transition: 0.3s;
+}
+.art a:hover {
+    background-color:red;
+    color:white;
+   
+  }
+  
+.art a.active {
+    background-color: dodgerblue;
+    color:white;
+ }
+.art{
+    position: absolute;
+    background: red;
+    margin: -50px;
+    float: right;
+    margin-left: 1060px;
+}
+.ou{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 250px;
+}
+.texte{
+    margin: -30px;
+    margin-left: 30px;
+}
+.bdiene{
+    position: absolute;
+    background-color:#6f6a64;
+    width: 120%;
+    height: 400px;
+    margin-left: 870px;
+    color: white;
+    text-align: center;
+}
+.zor{
+    margin: 20px;
+    text-align: center;
+}
+.mod{
+    margin-left: 100px;
+}

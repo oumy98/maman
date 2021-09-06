@@ -1,0 +1,8 @@
+body{
+    background: #fff7da;
+}
+.entete{
+    position: absolute;
+    margin-left: 200px;
+    float: left;
+}
